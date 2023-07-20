@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://www.dmoe.cc/random.php",
-  "spider": "https://gitee.com/AI168/JY/raw/master/jy.jar;md5;281a875d78abb81eb9716951fd20e530",
+  "spider": ".lib/jy.jar;md5;281a875d78abb81eb9716951fd20e530",
   "lives": [
     {
       "name": "直播",
@@ -32,7 +32,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/知识.json",
+      "ext": "./lib/知识.json",
       "jar": ""
     },
     {
@@ -43,7 +43,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/少儿.json",
+      "ext": "./lib/少儿.json",
       "jar": ""
     },
     {
@@ -54,7 +54,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/小学.json",
+      "ext": "./lib/小学.json",
       "jar": ""
     },
     {
@@ -65,7 +65,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/初中.json",
+      "ext": "./lib/初中.json",
       "jar": ""
     },
     {
@@ -76,7 +76,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/高中.json",
+      "ext": "./lib/高中.json",
       "jar": ""
     },
     {
@@ -87,7 +87,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/幼小衔接.json",
+      "ext": "./lib/幼小衔接.json",
       "jar": ""
     },
     {
@@ -98,7 +98,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/幼儿启蒙.json",
+      "ext": "./lib/幼儿启蒙.json",
       "jar": ""
     },
     {
@@ -109,7 +109,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/兔小贝.json",
+      "ext": "./lib/兔小贝.json",
       "jar": ""
     },
     {
@@ -120,7 +120,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/兔小贝2.json",
+      "ext": "./lib/兔小贝2.json",
       "jar": ""
     },
     {
@@ -131,7 +131,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/小灯塔百科.json",
+      "ext": "./lib/小灯塔百科.json",
       "jar": ""
     },
     {
@@ -142,7 +142,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/小灯塔科学.json",
+      "ext": "./lib/小灯塔科学.json",
       "jar": ""
     },
     {
@@ -164,7 +164,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/小灯塔国学.json",
+      "ext": "./lib/小灯塔国学.json",
       "jar": ""
     },
     {
@@ -175,7 +175,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/小灯塔人文.json",
+      "ext": "./lib/小灯塔人文.json",
       "jar": ""
     },
     {
@@ -186,7 +186,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/儿童拼音.json",
+      "ext": "./lib/儿童拼音.json",
       "jar": ""
     },
     {
@@ -197,7 +197,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/儿童识字.json",
+      "ext": "./lib/儿童识字.json",
       "jar": ""
     },
     {
@@ -208,7 +208,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/儿童英语.json",
+      "ext": "./lib/儿童英语.json",
       "jar": ""
     },
     {
@@ -230,7 +230,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/儿童思维.json",
+      "ext": "./lib/儿童思维.json",
       "jar": ""
     },
     {
@@ -263,7 +263,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/儿童武术.json",
+      "ext": "./lib/儿童武术.json",
       "jar": ""
     },
     {
@@ -318,7 +318,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/小学数学.json",
+      "ext": "./lib/小学数学.json",
       "jar": ""
     },
     {
@@ -340,7 +340,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/AI168/JY/raw/master/lib/小学教育.json",
+      "ext": "./lib/小学教育.json",
       "jar": ""
     }
   ],
